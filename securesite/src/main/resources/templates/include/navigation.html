@@ -1,0 +1,126 @@
+
+<!-- 모바일-->
+<nav class="navbar navbar-fixed-top header">
+	<div class="col-md-12">
+		<div class="navbar-header">
+
+			<a href="/" class="navbar-brand">SongSite</a>
+			<button type="button" class="navbar-toggle" data-toggle="collapse"
+				data-target="#navbar-collapse1">
+				<i class="glyphicon glyphicon-search"></i>
+			</button>
+
+		</div>
+		<div class="collapse navbar-collapse" id="navbar-collapse1">
+			<form class="navbar-form pull-right" action="/freeboard/list/1">
+				<div class="input-group" style="max-width: 470px;">
+				
+					<input type="text" class="form-control" placeholder="Search"
+						name="keyword" id="keyword">
+					<div class="input-group-btn">
+						<button class="btn btn-default btn-primary" type="submit">
+							<i class="glyphicon glyphicon-search"></i>
+						</button>
+					</div>
+						
+				</div>
+			</form>
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<div class="navbar navbar-default" id="subnav">
+	<div class="col-md-12">
+		<div class="navbar-header"></div>
+		<div class="collapse navbar-collapse" id="navbar-collapse2">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="/" role="button">Home</a></li>
+				<li><a href="/users/loginForm" role="button">프로젝트</a></li>
+				<li><a href="/categoryboard/list/1" role="button">추천사이트</a></li>
+				<li><a href="/freeboard/list/1" role="button">자유게시판</a></li>
+				{{^sessionedUser}}
+				<li><a href="/login" role="button">로그인</a></li> {{/sessionedUser}}
+				{{#sessionedUser}}
+				<li><a href="/logout" role="button">로그아웃</a></li>
+				<li><a href="/users/{{id}}/form" role="button">개인정보수정</a></li>
+				{{/sessionedUser}}
+			</ul>
+		</div>
+	</div>
+</div>
+
+<!--  웹 -->
+<nav class="navbar navbar-fixed-top header">
+	<div class="col-md-12">
+		<div class="navbar-header">
+
+			<a href="/" class="navbar-brand">SongSite</a>
+			<button type="button" class="navbar-toggle" data-toggle="collapse"
+				data-target="#navbar-collapse1">
+				<i class="glyphicon glyphicon-search"></i>
+			</button>
+
+		</div>
+		<div class="collapse navbar-collapse" id="navbar-collapse1">
+			<form class="navbar-form pull-right" action="/freeboard/list/1" >
+				<div class="input-group" style="max-width: 470px;">
+					<input type="text" class="form-control" placeholder="Search"
+						name="keyword" id="keyword">
+					<div class="input-group-btn">
+						<button class="btn btn-default btn-primary" type="submit">
+							<i class="glyphicon glyphicon-search"></i>
+						</button>
+					</div>
+				</div>
+			</form>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						<i class="glyphicon glyphicon-bell"></i>
+				</a>
+					<ul class="dropdown-menu">
+						<li><a href="/freeboard/form">SLiPP</a></li>
+						<li><a href="/freeboard/list/1">Facebook</a></li>
+						<!-- target="_blank" 새창에서 이동 -->
+					</ul></li>
+				<li><a class="dropdown-toggle" data-toggle="dropdown"> <i
+						class="glyphicon glyphicon-user"></i>
+				</a>
+					<ul class="dropdown-menu">
+						{{^sessionedUser}}
+						<li><a href="/login">로그인</a></li> {{/sessionedUser}}
+						{{#sessionedUser}}
+						<li><a href="#">개인정보수정</a></li>
+						<li><a href="/logout">로그아웃</a></li> {{/sessionedUser}}
+					</ul></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<div class="navbar navbar-default" id="subnav">
+	<div class="col-md-12">
+		<div class="navbar-header">
+
+
+			<button type="button" class="navbar-toggle" data-toggle="collapse"
+				data-target="#navbar-collapse2">
+				<span class="sr-only">Toggle navigation</span> <span
+					class="icon-bar"></span> <span class="icon-bar"></span> <span
+					class="icon-bar"></span>
+			</button>
+		</div>
+		<div class="collapse navbar-collapse" id="navbar-collapse2">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="/" role="button">Home</a></li>
+				<li><a href="/users/loginForm" role="button">프로젝트</a></li>
+				<li><a href="/categoryboard/list/1" role="button">추천사이트</a></li>
+				<li><a href="/freeboard/list/1" role="button">자유게시판</a></li>
+
+			</ul>
+		</div>
+	</div>
+</div>
+
+

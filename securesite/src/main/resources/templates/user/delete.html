@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- header 파일  -->
+{{> include/header}}
+</head>
+<body>
+	<!-- 페이지 공통 메뉴 파일  -->
+	{{> include/navigation}}
+	<!-- Page Content -->
+	<div class="container">
+		<div class="row">
+			<!-- 왼쪽에 공통으로 들어가는 메뉴 -->
+			{{> include/menuAccount}}
+			<div class="account-wall col-md-7">
+				<h3>
+					<strong>계정 삭제</strong>
+				</h3>
+				<br>
+				<form class="form-signin" action="/account" method="delete">
+					<div id="stateMessage" role="alert"></div>
+					<label for="Password">비밀번호 확인</label>
+					<input id="passwordValue" type="password" name="checkPassword" class="form-control input-lg" placeholder="Password" required>
+					<br>
+					<button id="deleteAccount" class="btn btn-lg btn-default" type="submit">회원 탈퇴</button>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- /.container -->
+	<!-- JS 관련 파일  -->
+	{{> include/footer}}
+</body>
+</html>

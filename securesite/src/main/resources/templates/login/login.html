@@ -1,0 +1,51 @@
+<!-- 로그인 > 로그인 완료후 세션값이 할당! -->
+<!DOCTYPE html>
+<html>
+<head>
+
+	{{> include/header}}
+</head>
+
+	
+<body>
+
+{{> include/navigation}}
+
+
+		<div class="container" id="main">
+		<!--[offset : 공백] [xs(<768px) < sm(>=768px) < md(>=992px) < lg(>=1200px)]  -->
+		<div class="col-xs-10 col-xs-offset-1 col-sm-7 col-sm-offset-3 col-md-5 col-md-offset-4">
+			<br>
+			<div class="account-wall">
+				<form class="form-signin" method="post" action="/login">
+					{{#detailMessage}}
+					<div class="alert alert-danger" role="alert">{{this}}</div>
+					{{/detailMessage}} 
+					<label for="ID" class="sr-only">아이디</label>
+					<input type="text" name="userId" class="form-control" placeholder="아이디" required autofocus>
+					<br>
+					<label for="Password" class="sr-only">비밀번호</label>
+					<input type="password" name="password" class="form-control" placeholder="비밀번호" required>
+					<br>
+					<button class="btn btn-lg btn-default btn-block" type="submit">로그인</button>
+					<!-- 아이디&비밀번호 찾기 아직 -->
+					<!-- 	<a href="#" class="pull-right need-help">아이디/비밀번호 찾기</a> <span class="clearfix"></span> -->
+				</form>
+			</div>
+			<a href="user/create" class="text-center new-account">회원가입</a>
+			<br>
+			<hr>
+			<p>SNS 로그인</p>
+			<a href="/naverlogin" class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0" style="padding: 1px;">
+				<img src="/img/naver_account_login_btn.png" title="네이버 로그인" style="width: 100%; height: 46px;">
+			</a>
+			<a href="/kakaologin" class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0" style="padding: 1px;">
+				<img src="/img/kakao_account_login_btn.png" title="카카오 로그인" style="width: 100%; height: 46px;">
+			</a>
+		</div>
+	</div>
+	</div>
+
+	{{> include/footer}}
+</body>
+</html>

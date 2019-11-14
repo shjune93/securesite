@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta charset="utf-8" />
+<head>
+{{> include/header}}
+</head>
+<body>
+{{> include/navigation}}
+
+	<div class="container" id="main">
+		<div class="col-md-12 col-sm-12 col-lg-12">
+			{{#categoryBoard}}
+			<div class="panel panel-default">
+
+
+				<header class="qna-header">
+					<h2 class="qna-title">{{title}}</h2>
+				</header>
+				<div class="content-main">
+					<article class="article">
+						<div class="article-header">
+							<div class="article-header-thumb">
+								<img
+									src="https://graph.facebook.com/v2.3/100000059371774/picture"
+									class="article-author-thumb" alt="">
+							</div>
+							<a href="/categoryboard/{{id}}/updateform">{{writer.userId}}</a>
+
+							<div class="article-util"></div>
+							<div class="article-right">{{FormattedCreateDate}}</div>
+						</div>
+						<div class="article-util-left">
+						 <label for="link">링크 : </label>
+						 <a href="{{link}}" target='_blank' class="article-left" >{{link}}</a> 
+						</div>
+				</div>
+			</div>
+		
+		
+			<div>
+				<pre class="pre">{{contents}}</pre>
+
+			</div>
+
+			<div class="article-util">
+				<ul class="article-util-list">
+					{{^showupdatedelete}}
+					<li><a href="/categoryboard/{{#listNum}}{{.}}{{/listNum}}/{{id}}/updateform">수정</a></li>
+					<li>
+						<form class="form-delete" action="/categoryboard/{{id}}/delete"
+							method="POST">
+							<button type="submit">삭제</button>
+						</form>
+					</li> {{/showupdatedelete}}
+					<li>{{#listNum}}<a href="/categoryboard/list/{{.}}{{#keyword}}?keyword={{.}}{{/keyword}}">목록</a>{{/listNum}}
+
+						<!--  <input type="button" value="돌아가기" onClick="history.go(-1)">-->
+					</li>
+				</ul>
+			</div>
+			</article>
+
+			<div class="qna-comment">
+				<div class="qna-comment-slipp">
+					<p class="qna-comment-count">
+						<strong>{{categoryBoard.countOfAnswer}}</strong>개의 의견
+					</p>
+					<div class="qna-comment-slipp-articles">
+						{{#answers}}
+						<article class="article" id="answer-1405">
+							<div class="article-header">
+								<div class="article-header-thumb">
+									<img src="https://graph.facebook.com/v2.3/1324855987/picture"
+										class="article-author-thumb" alt="">
+								</div>
+								<div class="article-header-text">
+									<a href="/users/1/자바지기" class="article-author-name">{{writer.userId}}</a>
+									<a href="#answer-1434" class="article-header-time" title="퍼머링크">
+										{{FormattedCreateDate}} </a>
+								</div>
+							</div>
+							<div class="article-doc comment-doc">{{contents}}</div>
+							{{^showupdatedelete}}
+							<div class="article-util">
+								<ul class="article-util-list">
+									<!-- 수정기능 추후 -->
+									<!--  	<li><a class="link-modify-article"
+												href="">수정</a></li> -->
+									<li><a class="link-delete-article"
+										href="/categoryboard/{{categoryBoard.id}}/api/answers/{{id}}/delete">삭제</a>
+									</li>
+								</ul>
+							</div>
+							{{/showupdatedelete}}
+						</article>
+						{{/answers}}
+
+						<form class="answer-write" action="/categoryboard/{{id}}/api/answers"
+							method="post">
+							<div class="form-group" style="padding: 14px;">
+								<textarea class="form-control" placeholder="Update your status"
+									name="contents"></textarea>
+							</div>
+							<input type="submit" class="btn btn-success pull-right"
+								value="답변하기" />
+						</form>
+					</div>
+				</div>
+			</div>
+				{{/categoryBoard}}
+		</div>
+	</div>
+
+	
+	
+	{{#errorMessage}}
+	<script> 
+		var message = {{errorMessage}}; 
+		alert(message); 
+	</script>
+	{{/errorMessage}}
+	<script type="text/template" id="answerTemplate">
+	<article class="article">
+	{{#categoryBoard}}
+		<div class="article-header">
+			<div class="article-header-thumb">
+				<img src="https://graph.facebook.com/v2.3/1324855987/picture" class="article-author-thumb" alt="">
+			</div>
+			<div class="article-header-text">
+				<a href="#" class="article-author-name">{0}</a>
+				<div class="article-header-time">{1}</div>
+			</div>
+		</div>
+		<div class="article-doc comment-doc">
+			{2}
+		</div>
+		<div class="article-util">
+		<ul class="article-util-list">
+			
+			<li>
+				<a class="link-delete-article" href="/api/questions/{{id}}/answers/{3}/delete">삭제</a>
+			</li>
+		</ul>
+		</div>
+	{{/categoryBoard}}
+	</article>
+</script>
+
+
+	<!-- script references -->
+	<script src="/js/categoryboard-scripts.js"></script>
+	{{> include/footer}}
+</body>
+</html>

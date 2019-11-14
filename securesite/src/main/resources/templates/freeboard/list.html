@@ -1,0 +1,53 @@
+<!-- 로그인 > 로그인 완료후 세션값이 할당! -->
+<!DOCTYPE html>
+<html>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<head>{{> include/header}}
+</head>
+
+
+<body>
+	{{> include/navigation}}
+
+	<div class="container" id="main">
+		<div class="col-md-12 col-sm-12 col-lg-10 col-lg-offset-1">
+			<div class="panel panel-default qna-list">
+				<ul class="list">
+					{{#freeboards}}
+						<li>
+						<div class="wrap">
+							<div class="main">
+								<strong class="subject">{{#curPageNum}} 
+								<a class="list font" href="/freeboard/{{.}}/{{id}}{{#keyword}}?keyword={{.}}{{/keyword}}">{{title}}
+										({{countOfAnswer}})</a>{{/curPageNum}}
+								</strong>
+
+								<div class="auth-info">
+									<i class="icon-add-comment"></i> <span class="time">{{FormattedCreateDate}}</span>
+									<class="author">{{writer.userId}}</class>
+								</div>
+								<div class="reply" title="댓글">
+									<i class="icon-reply"></i> <span class="point"></span>
+								</div>
+							</div>
+						</div>
+					</li> {{/freeboards}}
+				</ul>
+
+			</div>
+			{{#before}} <a href="/freeboard/list/{{.}}{{#keyword}}?keyword={{.}}{{/keyword}}">before</a> {{/before}}
+			{{#beforePageNum}} <a href="/freeboard/list/{{.}}{{#keyword}}?keyword={{.}}{{/keyword}}">{{.}}</a>
+			{{/beforePageNum}} {{#curPageNum}} <a class="curPage"
+				href="/freeboard/list/{{.}}{{#keyword}}?keyword={{.}}{{/keyword}}">{{.}}</a> {{/curPageNum}}
+			{{#nextPageNum}} <a href="/freeboard/list/{{.}}{{#keyword}}?keyword={{.}}{{/keyword}}">{{.}}</a>
+			{{/nextPageNum}} {{#next}} <a href="/freeboard/list/{{.}}{{#keyword}}?keyword={{.}}{{/keyword}}">next</a>
+			{{/next}}
+			<button type="button" onclick="location.href='/freeboard/form'"
+				class="btn btn-primary pull-right">글 쓰 기</button>
+		</div>
+	</div>
+
+	{{> include/footer}}
+</body>
+</html>
