@@ -290,7 +290,7 @@ public class FreeBoardContoller {
 		}
 		if(freeboard.getFile()!=null) {
 			//파일경로 하드코딩
-			String path="C:\\Users\\shjun\\git\\songshop\\song-shop\\files\\"+freeboard.getId().toString()+"\\"+freeboard.getFile().getFileName();
+			String path="~/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
 			//
 			System.out.println("파일경로"+path);
 			File file= new File(path);
