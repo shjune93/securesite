@@ -234,7 +234,7 @@ public class FreeBoardContoller {
 		freeBoardRepository.save(freeboard);
 		if(!file.isEmpty()) {
 			if(freeboard.getFile()!=null) {
-				String path="~/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
+				String path="/home/song/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
 				System.out.println("파일경로"+path);
 				File beforeFile= new File(path);
 				if(beforeFile.exists()==true) {
@@ -262,7 +262,7 @@ public class FreeBoardContoller {
 		}
 		if(fileDeleteCheck!=null&&fileDeleteCheck){
 			if(freeboard.getFile()!=null) {
-				String path="~/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
+				String path="/home/song/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
 				System.out.println("파일경로"+path);
 				File beforeFile= new File(path);
 				if(beforeFile.exists()==true) {
@@ -290,7 +290,7 @@ public class FreeBoardContoller {
 		}
 		if(freeboard.getFile()!=null) {
 			//파일경로 하드코딩
-			String path="~/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
+			String path="/home/song/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
 			//
 			System.out.println("파일경로"+path);
 			File file= new File(path);
