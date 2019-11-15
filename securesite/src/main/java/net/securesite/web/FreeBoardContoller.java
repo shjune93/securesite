@@ -234,7 +234,7 @@ public class FreeBoardContoller {
 		freeBoardRepository.save(freeboard);
 		if(!file.isEmpty()) {
 			if(freeboard.getFile()!=null) {
-				String path="C:\\Users\\shjun\\git\\songshop\\song-shop\\files\\"+freeboard.getId().toString()+"\\"+freeboard.getFile().getFileName();
+				String path="~/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
 				System.out.println("파일경로"+path);
 				File beforeFile= new File(path);
 				if(beforeFile.exists()==true) {
@@ -262,7 +262,7 @@ public class FreeBoardContoller {
 		}
 		if(fileDeleteCheck!=null&&fileDeleteCheck){
 			if(freeboard.getFile()!=null) {
-				String path="C:\\Users\\shjun\\git\\songshop\\song-shop\\files\\"+freeboard.getId().toString()+"\\"+freeboard.getFile().getFileName();
+				String path="~/securesite/securesite/securesite/files/"+freeboard.getId().toString()+"/"+freeboard.getFile().getFileName();
 				System.out.println("파일경로"+path);
 				File beforeFile= new File(path);
 				if(beforeFile.exists()==true) {
