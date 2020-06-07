@@ -1,4 +1,4 @@
-package com.securesite;
+package net.securesite;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
