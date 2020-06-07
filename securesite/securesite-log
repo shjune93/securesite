@@ -1,0 +1,465 @@
+2019-11-21 22:49:37.344 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.345 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.517 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.547 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.591 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.609 # Appender pattern for log level (default  WARN2019-11-21 22:49:37.666 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.666 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.666 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.680 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.680 # Appender pattern for log level (default DEBUG2019-11-21 22:49:37.680 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.717 # Appender pattern for log level (default  INFO2019-11-21 22:49:37.721 # Appender pattern for log level (default  INFO2019-11-21 22:49:38.948 # Appender pattern for log level (default  INFO2019-11-21 22:49:38.958 # Appender pattern for log level (default  INFO2019-11-21 22:49:39.071 # Appender pattern for log level (default  WARN2019-11-21 22:49:39.096 # Appender pattern for log level (default  INFO2019-11-21 22:49:39.098 # Appender pattern for log level (default DEBUG2019-11-21 22:49:39.109 # Appender pattern for log level (default DEBUG2019-11-21 22:49:39.110 # Appender pattern for log level (default  INFO2019-11-21 22:49:39.116 # Appender pattern for log level (default DEBUG2019-11-21 22:49:39.119 # Appender pattern for log level (default DEBUG2019-11-21 22:49:39.177 # Appender pattern for log level (default  INFO2019-11-21 22:49:39.182 # Appender pattern for log level (default  INFO2019-11-21 22:49:39.183 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.157 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.163 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.168 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.173 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.596 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.596 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.765 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.792 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.832 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.852 # Appender pattern for log level (default  WARN2019-11-21 22:50:01.916 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.917 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.917 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.931 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.931 # Appender pattern for log level (default DEBUG2019-11-21 22:50:01.931 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.967 # Appender pattern for log level (default  INFO2019-11-21 22:50:01.969 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.000 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.008 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.119 # Appender pattern for log level (default  WARN2019-11-21 22:50:03.143 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.145 # Appender pattern for log level (default DEBUG2019-11-21 22:50:03.152 # Appender pattern for log level (default DEBUG2019-11-21 22:50:03.154 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.159 # Appender pattern for log level (default DEBUG2019-11-21 22:50:03.164 # Appender pattern for log level (default DEBUG2019-11-21 22:50:03.221 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.225 # Appender pattern for log level (default  INFO2019-11-21 22:50:03.226 # Appender pattern for log level (default  INFO2019-11-21 22:50:06.507 # Appender pattern for log level (default  INFO2019-11-21 22:50:06.513 # Appender pattern for log level (default  INFO2019-11-21 22:50:06.517 # Appender pattern for log level (default  INFO2019-11-21 22:50:06.518 # Appender pattern for log level (default  INFO2019-11-21 22:50:06.521 # Appender pattern for log level (default  INFO2019-11-21 22:50:14.430  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : Starting SecuresiteApplication on DESKTOP-NSPOFUH with PID 20296 (C:\Users\shjun\git\securesite\securesite\target\classes started by shjun in C:\Users\shjun\git\securesite\securesite)
+2019-11-21 22:50:14.432  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : No active profile set, falling back to default profiles: default
+2019-11-21 22:50:14.473  INFO 20296 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in C:\Users\shjun\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+2019-11-21 22:50:14.473  INFO 20296 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-21 22:50:14.473  INFO 20296 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-21 22:50:14.966  INFO 20296 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-21 22:50:15.043  INFO 20296 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 70ms. Found 6 repository interfaces.
+2019-11-21 22:50:15.276  INFO 20296 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-21 22:50:15.511  INFO 20296 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-21 22:50:15.519  INFO 20296 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-21 22:50:15.520  INFO 20296 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 22:50:15.671  INFO 20296 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-21 22:50:15.676 DEBUG 20296 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-21 22:50:15.676  INFO 20296 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1203 ms
+2019-11-21 22:50:16.038  INFO 20296 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-11-21 22:50:16.123  INFO 20296 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-11-21 22:50:17.770  INFO 20296 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:50:17.798  INFO 20296 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-21 22:50:18.175  WARN 20296 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-21 22:50:18.267  INFO 20296 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:50:18.280 DEBUG 20296 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-21 22:50:18.323 DEBUG 20296 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 34 mappings in 'requestMappingHandlerMapping'
+2019-11-21 22:50:18.330  INFO 20296 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-11-21 22:50:18.349 DEBUG 20296 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-11-21 22:50:18.360 DEBUG 20296 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-21 22:50:18.486  INFO 20296 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 22:50:18.488  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : Started SecuresiteApplication in 4.298 seconds (JVM running for 5.079)
+2019-11-21 22:50:23.651  INFO 20296 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-21 22:50:23.656  INFO 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-21 22:50:23.656 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-11-21 22:50:23.667 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-11-21 22:50:23.667  INFO 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2019-11-21 22:50:23.679 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/", parameters={}
+2019-11-21 22:50:23.683 DEBUG 20296 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to net.securesite.web.HomeController#home()
+2019-11-21 22:50:23.697 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/signed-exchange;v=b3, application/xml;q=0.9, */*;q=0.8]
+2019-11-21 22:50:23.707 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.724 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 22:50:23.724 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 22:50:23.727 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 22:50:23.727 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/images/1.png", parameters={}
+2019-11-21 22:50:23.729 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.729 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.729 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.727 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 22:50:23.727 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 22:50:23.733 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.733 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.733 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.745 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.745 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.745 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.745 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.747 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.750 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/images/2.jpg", parameters={}
+2019-11-21 22:50:23.750 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/images/3.png", parameters={}
+2019-11-21 22:50:23.750 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 22:50:23.750 DEBUG 20296 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 22:50:23.750 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 22:50:23.751 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.751 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.751 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.751 DEBUG 20296 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.751 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.755 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.760 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.755 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.757 DEBUG 20296 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.762 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/js/owl.carousel.js", parameters={}
+2019-11-21 22:50:23.762 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:23.765 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.769 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:23.769 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.114 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 22:50:24.115 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.116 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 22:50:24.116 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 22:50:24.117 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 22:50:24.118 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 22:50:24.118 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.118 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.118 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.119 DEBUG 20296 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/images/1.png", parameters={}
+2019-11-21 22:50:24.119 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.119 DEBUG 20296 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.121 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.122 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.122 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.122 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.125 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.128 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/images/2.jpg", parameters={}
+2019-11-21 22:50:24.129 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.132 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.134 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/js/owl.carousel.js", parameters={}
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/images/3.png", parameters={}
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.135 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.136 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.139 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.139 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.142 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.142 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.148 DEBUG 20296 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.148 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:24.231 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/fonts/glyphicons-halflings-regular.woff", parameters={}
+2019-11-21 22:50:24.231 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:24.235 DEBUG 20296 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.276 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/freeboard/list/1", parameters={}
+2019-11-21 22:50:35.282 DEBUG 20296 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to net.securesite.web.FreeBoardContoller#list(Model, int, String, String)
+2019-11-21 22:50:35.402 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/signed-exchange;v=b3, application/xml;q=0.9, */*;q=0.8]
+2019-11-21 22:50:35.409 DEBUG 20296 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.440 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 22:50:35.440 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 22:50:35.440 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.441 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.446 DEBUG 20296 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.444 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.444 DEBUG 20296 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.444 DEBUG 20296 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.444 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.447 DEBUG 20296 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.450 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 22:50:35.450 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 22:50:35.451 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.451 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.453 DEBUG 20296 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.453 DEBUG 20296 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:50:35.512 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/fonts/glyphicons-halflings-regular.woff", parameters={}
+2019-11-21 22:50:35.513 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:50:35.515 DEBUG 20296 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:55:02.331  INFO 20296 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:55:02.336  INFO 20296 --- [Thread-6] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:55:02.345  INFO 20296 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-11-21 22:55:02.348  INFO 20296 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-11-21 22:55:02.769  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : Starting SecuresiteApplication on DESKTOP-NSPOFUH with PID 20296 (C:\Users\shjun\git\securesite\securesite\target\classes started by shjun in C:\Users\shjun\git\securesite\securesite)
+2019-11-21 22:55:02.769  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : No active profile set, falling back to default profiles: default
+2019-11-21 22:55:02.957  INFO 20296 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-21 22:55:02.988  INFO 20296 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 30ms. Found 6 repository interfaces.
+2019-11-21 22:55:03.034  INFO 20296 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-21 22:55:03.056  WARN 20296 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-11-21 22:55:03.116  INFO 20296 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-21 22:55:03.117  INFO 20296 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-21 22:55:03.117  INFO 20296 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 22:55:03.131  INFO 20296 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-21 22:55:03.131 DEBUG 20296 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-21 22:55:03.132  INFO 20296 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 360 ms
+2019-11-21 22:55:03.172  INFO 20296 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-11-21 22:55:03.176  INFO 20296 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-11-21 22:55:04.432  INFO 20296 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:55:04.440  INFO 20296 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-21 22:55:04.575  WARN 20296 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-21 22:55:04.604  INFO 20296 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:55:04.607 DEBUG 20296 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-21 22:55:04.615 DEBUG 20296 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 34 mappings in 'requestMappingHandlerMapping'
+2019-11-21 22:55:04.617  INFO 20296 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-11-21 22:55:04.624 DEBUG 20296 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-11-21 22:55:04.628 DEBUG 20296 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-21 22:55:04.691  INFO 20296 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 22:55:04.696  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : Started SecuresiteApplication in 1.963 seconds (JVM running for 291.287)
+2019-11-21 22:55:04.698  INFO 20296 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-11-21 22:55:28.740  INFO 20296 --- [Thread-14] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:55:28.746  INFO 20296 --- [Thread-14] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:55:28.751  INFO 20296 --- [Thread-14] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2019-11-21 22:55:28.754  INFO 20296 --- [Thread-14] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2019-11-21 22:55:29.183  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : Starting SecuresiteApplication on DESKTOP-NSPOFUH with PID 20296 (C:\Users\shjun\git\securesite\securesite\target\classes started by shjun in C:\Users\shjun\git\securesite\securesite)
+2019-11-21 22:55:29.184  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : No active profile set, falling back to default profiles: default
+2019-11-21 22:55:29.372  INFO 20296 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-21 22:55:29.409  INFO 20296 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 37ms. Found 6 repository interfaces.
+2019-11-21 22:55:29.464  INFO 20296 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-21 22:55:29.487  WARN 20296 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-11-21 22:55:29.547  INFO 20296 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-21 22:55:29.548  INFO 20296 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-21 22:55:29.548  INFO 20296 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 22:55:29.564  INFO 20296 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-21 22:55:29.564 DEBUG 20296 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-21 22:55:29.564  INFO 20296 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 378 ms
+2019-11-21 22:55:29.604  INFO 20296 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2019-11-21 22:55:29.607  INFO 20296 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2019-11-21 22:55:30.694  INFO 20296 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:55:30.706  INFO 20296 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-21 22:55:30.841  WARN 20296 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-21 22:55:30.870  INFO 20296 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:55:30.873 DEBUG 20296 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-21 22:55:30.881 DEBUG 20296 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 34 mappings in 'requestMappingHandlerMapping'
+2019-11-21 22:55:30.883  INFO 20296 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-11-21 22:55:30.890 DEBUG 20296 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-11-21 22:55:30.894 DEBUG 20296 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-21 22:55:30.957  INFO 20296 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 22:55:30.963  INFO 20296 --- [restartedMain] net.securesite.SecuresiteApplication     : Started SecuresiteApplication in 1.812 seconds (JVM running for 317.553)
+2019-11-21 22:55:30.965  INFO 20296 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-11-21 22:57:27.421  INFO 20296 --- [Thread-21] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:57:27.426  INFO 20296 --- [Thread-21] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:57:27.430  INFO 20296 --- [Thread-21] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2019-11-21 22:57:27.434  INFO 20296 --- [Thread-21] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2019-11-21 22:57:34.558  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : Starting SecuresiteApplication on DESKTOP-NSPOFUH with PID 1224 (C:\Users\shjun\git\securesite\securesite\target\classes started by shjun in C:\Users\shjun\git\securesite\securesite)
+2019-11-21 22:57:34.560  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : No active profile set, falling back to default profiles: default
+2019-11-21 22:57:34.603  INFO 1224 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in C:\Users\shjun\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/shjun/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+2019-11-21 22:57:34.603  INFO 1224 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-11-21 22:57:34.603  INFO 1224 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-11-21 22:57:35.127  INFO 1224 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-21 22:57:35.199  INFO 1224 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 65ms. Found 6 repository interfaces.
+2019-11-21 22:57:35.411  INFO 1224 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-21 22:57:35.630  INFO 1224 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-21 22:57:35.637  INFO 1224 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-21 22:57:35.637  INFO 1224 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 22:57:35.710  INFO 1224 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-21 22:57:35.715 DEBUG 1224 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-21 22:57:35.715  INFO 1224 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1112 ms
+2019-11-21 22:57:36.082  INFO 1224 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-11-21 22:57:36.165  INFO 1224 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-11-21 22:57:38.301  INFO 1224 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:57:38.329  INFO 1224 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-21 22:57:38.715  WARN 1224 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-21 22:57:38.810  INFO 1224 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:57:38.823 DEBUG 1224 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-21 22:57:38.865 DEBUG 1224 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 34 mappings in 'requestMappingHandlerMapping'
+2019-11-21 22:57:38.873  INFO 1224 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-11-21 22:57:38.891 DEBUG 1224 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-11-21 22:57:38.904 DEBUG 1224 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-21 22:57:39.025  INFO 1224 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 22:57:39.028  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : Started SecuresiteApplication in 4.705 seconds (JVM running for 5.582)
+2019-11-21 22:57:58.577  INFO 1224 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-21 22:57:58.584  INFO 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-21 22:57:58.584 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-11-21 22:57:58.594 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-11-21 22:57:58.594  INFO 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-11-21 22:57:58.605 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/", parameters={}
+2019-11-21 22:57:58.609 DEBUG 1224 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to net.securesite.web.HomeController#home()
+2019-11-21 22:57:58.625 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/signed-exchange;v=b3, application/xml;q=0.9, */*;q=0.8]
+2019-11-21 22:57:58.635 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.656 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 22:57:58.656 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 22:57:58.659 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/images/1.png", parameters={}
+2019-11-21 22:57:58.659 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 22:57:58.661 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.659 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 22:57:58.659 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 22:57:58.661 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.661 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.666 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.666 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.666 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.677 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.677 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.677 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.677 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.680 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.683 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 22:57:58.683 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/images/3.png", parameters={}
+2019-11-21 22:57:58.683 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 22:57:58.683 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/images/2.jpg", parameters={}
+2019-11-21 22:57:58.683 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 22:57:58.684 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.684 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.684 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.684 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.684 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.688 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.688 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.690 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.688 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.696 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/js/owl.carousel.js", parameters={}
+2019-11-21 22:57:58.697 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:58.699 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.702 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:58.702 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.031 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 22:57:59.032 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.035 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.037 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 22:57:59.037 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 22:57:59.037 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 22:57:59.037 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 22:57:59.038 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/images/1.png", parameters={}
+2019-11-21 22:57:59.038 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.038 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.038 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.040 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/images/2.jpg", parameters={}
+2019-11-21 22:57:59.041 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.038 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.044 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.047 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.048 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.050 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.050 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.050 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 22:57:59.050 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.051 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 22:57:59.051 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.051 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.054 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/js/owl.carousel.js", parameters={}
+2019-11-21 22:57:59.054 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/images/3.png", parameters={}
+2019-11-21 22:57:59.054 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 22:57:59.055 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.055 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.055 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.056 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.057 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.059 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.064 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.069 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.075 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:57:59.141 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/fonts/glyphicons-halflings-regular.woff", parameters={}
+2019-11-21 22:57:59.141 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 22:57:59.144 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 22:59:14.977  INFO 1224 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 22:59:14.985  INFO 1224 --- [Thread-6] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 22:59:14.988  INFO 1224 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-11-21 22:59:14.992  INFO 1224 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-11-21 23:16:38.709  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : Starting SecuresiteApplication on DESKTOP-NSPOFUH with PID 1224 (C:\Users\shjun\git\securesite\securesite\target\classes started by shjun in C:\Users\shjun\git\securesite\securesite)
+2019-11-21 23:16:38.710  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : No active profile set, falling back to default profiles: default
+2019-11-21 23:16:38.880  INFO 1224 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-21 23:16:38.907  INFO 1224 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27ms. Found 6 repository interfaces.
+2019-11-21 23:16:38.946  INFO 1224 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-21 23:16:38.965  WARN 1224 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-11-21 23:16:39.023  INFO 1224 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-21 23:16:39.024  INFO 1224 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-21 23:16:39.024  INFO 1224 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 23:16:39.039  INFO 1224 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-21 23:16:39.039 DEBUG 1224 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-21 23:16:39.039  INFO 1224 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 327 ms
+2019-11-21 23:16:39.079  INFO 1224 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Starting...
+2019-11-21 23:16:39.082  INFO 1224 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Start completed.
+2019-11-21 23:16:40.233  INFO 1224 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 23:16:40.246  INFO 1224 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-21 23:16:40.367  WARN 1224 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-21 23:16:40.393  INFO 1224 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 23:16:40.395 DEBUG 1224 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-21 23:16:40.402 DEBUG 1224 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 34 mappings in 'requestMappingHandlerMapping'
+2019-11-21 23:16:40.404  INFO 1224 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-11-21 23:16:40.409 DEBUG 1224 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-11-21 23:16:40.413 DEBUG 1224 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-21 23:16:40.470  INFO 1224 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 23:16:40.477  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : Started SecuresiteApplication in 1.793 seconds (JVM running for 1147.031)
+2019-11-21 23:16:40.478  INFO 1224 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-11-21 23:29:39.795  INFO 1224 --- [Thread-36] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 23:29:39.800  INFO 1224 --- [Thread-36] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 23:29:39.805  INFO 1224 --- [Thread-36] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Shutdown initiated...
+2019-11-21 23:29:39.810  INFO 1224 --- [Thread-36] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Shutdown completed.
+2019-11-21 23:29:40.240  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : Starting SecuresiteApplication on DESKTOP-NSPOFUH with PID 1224 (C:\Users\shjun\git\securesite\securesite\target\classes started by shjun in C:\Users\shjun\git\securesite\securesite)
+2019-11-21 23:29:40.241  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : No active profile set, falling back to default profiles: default
+2019-11-21 23:29:40.425  INFO 1224 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-21 23:29:40.457  INFO 1224 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 31ms. Found 6 repository interfaces.
+2019-11-21 23:29:40.504  INFO 1224 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-21 23:29:40.525  WARN 1224 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-11-21 23:29:40.587  INFO 1224 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-21 23:29:40.588  INFO 1224 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-21 23:29:40.588  INFO 1224 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-21 23:29:40.603  INFO 1224 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-21 23:29:40.603 DEBUG 1224 --- [restartedMain] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019-11-21 23:29:40.603  INFO 1224 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 360 ms
+2019-11-21 23:29:40.644  INFO 1224 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Starting...
+2019-11-21 23:29:40.648  INFO 1224 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Start completed.
+2019-11-21 23:29:41.655  INFO 1224 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 23:29:41.666  INFO 1224 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-11-21 23:29:41.839  WARN 1224 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-11-21 23:29:41.892  INFO 1224 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-21 23:29:41.897 DEBUG 1224 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019-11-21 23:29:41.908 DEBUG 1224 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 34 mappings in 'requestMappingHandlerMapping'
+2019-11-21 23:29:41.911  INFO 1224 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-11-21 23:29:41.923 DEBUG 1224 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019-11-21 23:29:41.931 DEBUG 1224 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019-11-21 23:29:42.013  INFO 1224 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-21 23:29:42.021  INFO 1224 --- [restartedMain] net.securesite.SecuresiteApplication     : Started SecuresiteApplication in 1.814 seconds (JVM running for 1928.576)
+2019-11-21 23:29:42.024  INFO 1224 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-11-21 23:29:42.344  INFO 1224 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-21 23:29:42.345  INFO 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-11-21 23:29:42.345 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2019-11-21 23:29:42.346 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019-11-21 23:29:42.346  INFO 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2019-11-21 23:29:42.347 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/", parameters={}
+2019-11-21 23:29:42.351 DEBUG 1224 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to net.securesite.web.HomeController#home()
+2019-11-21 23:29:42.353 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/signed-exchange;v=b3, application/xml;q=0.9, */*;q=0.8]
+2019-11-21 23:29:42.356 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.390 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 23:29:42.391 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.393 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 23:29:42.394 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.395 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.397 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.395 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 23:29:42.395 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 23:29:42.395 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 23:29:42.401 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/images/3.png", parameters={}
+2019-11-21 23:29:42.402 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.402 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.402 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.405 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.402 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/images/1.png", parameters={}
+2019-11-21 23:29:42.402 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.402 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/images/2.jpg", parameters={}
+2019-11-21 23:29:42.410 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.410 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.410 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 23:29:42.411 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.413 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.414 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.415 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.415 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.417 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.419 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 23:29:42.419 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 23:29:42.420 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/js/owl.carousel.js", parameters={}
+2019-11-21 23:29:42.420 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.420 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.428 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.432 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.432 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.435 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.436 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.855 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.carousel.css", parameters={}
+2019-11-21 23:29:42.856 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.860 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/css/owl.theme.default.css", parameters={}
+2019-11-21 23:29:42.860 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.860 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/css/styles.css", parameters={}
+2019-11-21 23:29:42.862 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.862 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.863 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : GET "/css/bootstrap.min.css", parameters={}
+2019-11-21 23:29:42.863 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : GET "/images/1.png", parameters={}
+2019-11-21 23:29:42.863 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/css/shop-homepage.css", parameters={}
+2019-11-21 23:29:42.864 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/images/2.jpg", parameters={}
+2019-11-21 23:29:42.864 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.864 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.864 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.864 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.867 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.868 DEBUG 1224 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.868 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.869 DEBUG 1224 --- [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.872 DEBUG 1224 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.878 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/js/bootstrap.min.js", parameters={}
+2019-11-21 23:29:42.878 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : GET "/js/jquery-3.3.1.min.js", parameters={}
+2019-11-21 23:29:42.878 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/js/scripts.js", parameters={}
+2019-11-21 23:29:42.879 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/js/owl.carousel.js", parameters={}
+2019-11-21 23:29:42.879 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.879 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.879 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.879 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.880 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : GET "/images/3.png", parameters={}
+2019-11-21 23:29:42.881 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.883 DEBUG 1224 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.884 DEBUG 1224 --- [http-nio-8080-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.887 DEBUG 1224 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.887 DEBUG 1224 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.890 DEBUG 1224 --- [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.893 DEBUG 1224 --- [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:29:42.988 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : GET "/fonts/glyphicons-halflings-regular.woff", parameters={}
+2019-11-21 23:29:42.989 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019-11-21 23:29:42.993 DEBUG 1224 --- [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2019-11-21 23:30:45.168  INFO 1224 --- [Thread-43] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 23:30:45.173  INFO 1224 --- [Thread-43] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-21 23:30:45.178  INFO 1224 --- [Thread-43] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Shutdown initiated...
+2019-11-21 23:30:45.182  INFO 1224 --- [Thread-43] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Shutdown completed.

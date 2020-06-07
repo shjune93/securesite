@@ -11,6 +11,7 @@
 	<groupId>securesite</groupId>
 	<artifactId>securesite</artifactId>
 	<version>1.0</version>
+	<packaging>war</packaging>
 	<name>securesite</name>
 	<description>Song QnA</description>
 
@@ -68,7 +69,13 @@
 			<artifactId>commons-io</artifactId>
 			<version>1.3.2</version>
 		</dependency>
-		
+		<!-- war배포 scope설정필요 --> 
+		<dependency> 
+			<groupId>org.springframework.boot</groupId> 
+			<artifactId>spring-boot-starter-tomcat</artifactId> 
+			<scope>provided</scope> 
+		</dependency>
+
 	</dependencies>
 
 	<build>
